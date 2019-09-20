@@ -15,5 +15,15 @@
             "Psr\\Container\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "UofT\\Canvas\\CanvasServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "UofT\\Canvas\\Facade"
+            }
+        }
+    },
     "require": {}
 }
