@@ -1,0 +1,14 @@
+{
+    "name": "uoft/canvas",
+    "description": "A wrapper around Canvas API which helps your application communicate with Canvas API server without the developer takes the burden of imolementing api call logic.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bahman Yaghoubi Vije",
+            "email": "bahman.yaghoubivije@utoronto.ca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
