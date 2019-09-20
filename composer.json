@@ -21,7 +21,7 @@
                 "UofT\\Canvas\\CanvasServiceProvider"
             ],
             "aliases": {
-                "Debugbar": "UofT\\Canvas\\Facade"
+                "Canvas": "UofT\\Canvas\\Facade"
             }
         }
     },
