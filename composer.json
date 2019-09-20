@@ -9,6 +9,9 @@
             "email": "bahman.yaghoubivije@utoronto.ca"
         }
     ],
+    "require": {
+        "php": ">=5.3.0"
+    },
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
@@ -24,6 +27,5 @@
                 "Canvas": "UofT\\Canvas\\Facade"
             }
         }
-    },
-    "require": {}
+    }
 }
